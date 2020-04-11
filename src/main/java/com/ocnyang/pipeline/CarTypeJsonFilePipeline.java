@@ -1,8 +1,5 @@
-package org.example.pipeline;
+package com.ocnyang.pipeline;
 
-import org.example.SpiderManager;
-import org.example.pageprocessor.CarBrandPageProcessor;
-import org.example.utils.DownLoadUtils;
 import org.slf4j.LoggerFactory;
 import us.codecraft.webmagic.ResultItems;
 import us.codecraft.webmagic.Task;
@@ -10,7 +7,6 @@ import us.codecraft.webmagic.pipeline.JsonFilePipeline;
 
 import java.io.File;
 import java.io.FileWriter;
-import java.io.IOException;
 import java.io.PrintWriter;
 
 /*******************************************************************

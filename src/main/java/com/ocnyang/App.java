@@ -1,7 +1,4 @@
-package org.example;
-
-import us.codecraft.webmagic.Spider;
-import us.codecraft.webmagic.pipeline.ConsolePipeline;
+package com.ocnyang;
 
 
 /**

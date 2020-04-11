@@ -1,9 +1,8 @@
-package org.example.pageprocessor;
+package com.ocnyang.pageprocessor;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;
-import com.alibaba.fastjson.JSONObject;
-import org.example.SpiderManager;
+import com.ocnyang.SpiderManager;
 import us.codecraft.webmagic.Page;
 import us.codecraft.webmagic.Site;
 import us.codecraft.webmagic.processor.PageProcessor;

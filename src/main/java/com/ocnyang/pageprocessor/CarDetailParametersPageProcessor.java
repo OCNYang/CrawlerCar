@@ -1,4 +1,4 @@
-package org.example.pageprocessor;
+package com.ocnyang.pageprocessor;
 
 import us.codecraft.webmagic.Page;
 import us.codecraft.webmagic.Site;

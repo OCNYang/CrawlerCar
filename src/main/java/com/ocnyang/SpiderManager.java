@@ -1,11 +1,11 @@
-package org.example;
+package com.ocnyang;
 
-import org.example.pageprocessor.CarBrandPageProcessor;
-import org.example.pageprocessor.CarDetailParametersPageProcessor;
-import org.example.pageprocessor.CarTypePageProcessor;
-import org.example.pipeline.CarBrandJsonFilePipeline;
-import org.example.pipeline.CarDetailParametersJsonFilePipeline;
-import org.example.pipeline.CarTypeJsonFilePipeline;
+import com.ocnyang.pageprocessor.CarTypePageProcessor;
+import com.ocnyang.pageprocessor.CarBrandPageProcessor;
+import com.ocnyang.pageprocessor.CarDetailParametersPageProcessor;
+import com.ocnyang.pipeline.CarBrandJsonFilePipeline;
+import com.ocnyang.pipeline.CarDetailParametersJsonFilePipeline;
+import com.ocnyang.pipeline.CarTypeJsonFilePipeline;
 import us.codecraft.webmagic.Spider;
 
 /*******************************************************************

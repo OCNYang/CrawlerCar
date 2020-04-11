@@ -1,4 +1,4 @@
-package org.example.utils;
+package com.ocnyang.utils;
 
 /*******************************************************************
  *    * * * *   * * * *   *     *       Created by OCN.Yang

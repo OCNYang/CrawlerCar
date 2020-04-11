@@ -1,9 +1,7 @@
-package org.example.pipeline;
+package com.ocnyang.pipeline;
 
-import com.alibaba.fastjson.JSON;
-import org.example.SpiderManager;
-import org.example.pageprocessor.CarBrandPageProcessor;
-import org.example.utils.DownLoadUtils;
+import com.ocnyang.SpiderManager;
+import com.ocnyang.pageprocessor.CarBrandPageProcessor;
 import org.slf4j.LoggerFactory;
 import us.codecraft.webmagic.ResultItems;
 import us.codecraft.webmagic.Task;

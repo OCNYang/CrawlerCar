@@ -1,4 +1,4 @@
-package org.example.pipeline;
+package com.ocnyang.pipeline;
 
 import org.slf4j.LoggerFactory;
 import us.codecraft.webmagic.ResultItems;
